@@ -16,6 +16,10 @@
     <img src="assets/pipeline.png" alt="pipeline" style="width: 100%;">
 </div>
 
+<div align=center>
+    <img src="assets/grid.png" alt="grid" style="width: 100%;">
+</div>
+
 ---
 
 ### 🔖 TODO
@@ -28,7 +32,7 @@
 - [ ] Training
 - [ ] Testing
 - [x] [Results](#results)
-- [ ] [Citation](#citation)
+- [x] [Citation](#citation)
 - [ ] [Acknowledgements](#acknowledgements)
 
 
@@ -60,13 +64,18 @@
 <div align=center>
     <img src="assets/grid2.png" alt="grid" style="width: 100%;">
 </div>
-<div align=center>
-    <img src="assets/grid.png" alt="grid" style="width: 100%;">
-</div>
+
 
 
 ### <a name="citation"></a>📎 Citation
-[TBD]
+```
+@article{liu2025osdd,
+      title={One-Step Diffusion Model for Image Motion-Deblurring}, 
+      author={Liu, Xiaoyang and Wang, Yuquan and Chen, Zheng and Cao, Jiezhang and Zhang, He and Zhang, Yulun and Yang, Xiaokang},
+      journal={arXiv preprint arXiv:2503.06537}
+      year={2025},
+}
+```
 
 ### <a name="acknowledgements"></a>💡 Acknowledgements
 [TBD]
