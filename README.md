@@ -70,10 +70,10 @@
 ### <a name="citation"></a>📎 Citation
 ```
 @article{liu2025osdd,
-      title={One-Step Diffusion Model for Image Motion-Deblurring}, 
-      author={Liu, Xiaoyang and Wang, Yuquan and Chen, Zheng and Cao, Jiezhang and Zhang, He and Zhang, Yulun and Yang, Xiaokang},
-      journal={arXiv preprint arXiv:2503.06537}
-      year={2025},
+  title={One-Step Diffusion Model for Image Motion-Deblurring}, 
+  author={Liu, Xiaoyang and Wang, Yuquan and Chen, Zheng and Cao, Jiezhang and Zhang, He and Zhang, Yulun and Yang, Xiaokang},
+  journal={arXiv preprint arXiv:2503.06537},
+  year={2025}
 }
 ```
 
