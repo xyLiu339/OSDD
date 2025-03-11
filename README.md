@@ -6,7 +6,7 @@
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=xyLiu339.OSDD)](https://github.com/xyLiu339/OSDD) 
 [![GitHub Stars](https://img.shields.io/github/stars/xyLiu339/OSDD)](https://github.com/xyLiu339/OSDD) 
 
-[[arXiv]()] [[supplementary material]()]
+[[arXiv](https://arxiv.org/abs/2503.06537)] [[supplementary material](https://github.com/xyLiu339/OSDD/releases)]
 
 ---
 
